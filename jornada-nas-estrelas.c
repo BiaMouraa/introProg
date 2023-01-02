@@ -1,3 +1,5 @@
+/*problema numero 1973 do BeeCrowd*/
+
 #include <stdio.h>
 #define MAX 1000000
 

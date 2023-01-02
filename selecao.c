@@ -1,3 +1,5 @@
+/*problema numero 1174 do BeeCrowd*/
+
 #include <stdio.h>
 
 int main() {
