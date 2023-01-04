@@ -1,3 +1,10 @@
+/****************************************************************************
+Exercício sobre Structs, Strings, Arrays e Funcoes.
+
+Objetivo: criar um programa de controle de uma disciplina que gera uma lista
+com a situação de todos os alunos com suas notas e médias finais.
+****************************************************************************/
+
 #include <stdio.h>
 #include <stdlib.h>
 #define MAX_NOME 41
