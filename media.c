@@ -1,3 +1,10 @@
+/****************************************************************************
+Exercício Introdutorio.
+
+Objetivo: desenvolver um programa que deverá ler três notas distintas de um 
+aluno e ao final exibir a média aritmética dessas notas.
+****************************************************************************/
+
 #include <stdio.h>
 
 int main(void){

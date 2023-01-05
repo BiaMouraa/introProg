@@ -1,3 +1,10 @@
+/****************************************************************************
+Exercício de Expressões Relacionais, Expressões Lógicas, Desvio Condicional.
+
+Objetivo: Escreva um programa em C que leia uma idade e imprima se essa pessoa
+é “Jovem”, “Adulta” ou “Idosa”.
+****************************************************************************/
+
 #include <stdio.h>
 
 int main (void) {

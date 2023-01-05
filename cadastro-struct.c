@@ -1,3 +1,10 @@
+/****************************************************************************
+Exercício sobre Structs e Funcoes.
+
+Objetivo: criar um programa de criação de múltiplos cadastros utilizando o
+preenchimento da struct com funções.
+****************************************************************************/
+
 #include <stdio.h>
 
 typedef struct {

@@ -1,3 +1,29 @@
+/****************************************************************************
+Exercício de Expressões Relacionais, Expressões Lógicas, Desvio Condicional.
+
+Enunciado: Em uma suposta universidade, duas supostas disciplinas são 
+correquisitos e são lecionadas por um suposto mesmo professor.Para unificar
+as notas, um peso 6 deveria ser aplicado em uma das disciplinas e um peso 4 
+para a outra. Sendo que a disciplina de maior peso seria justamente aquela 
+em que o aluno obtivesse a maior nota. Esse cálculo deve ser feito a cada
+uma das três unidades e em cada unidade a disciplina de maior peso pode ser uma
+diferente. Ao final do semestre, a média seria formada pela média aritmética comum
+das três notas unificadas calculadas pela média ponderada.
+
+Objetivo: construa um programa, em C, que leia as 6 notas, sendo 3 para cada 
+disciplina e calcule a nota unificada de cada unidade e a media total do semestre
+e exiba o conceito de acordo com a tabela.
+
+                Média                       Conceito
+Entre 9.0 (inclusive) e 10.0 (inclusive)        A
+Entre 8.0 (inclusive) e 9.0                     B
+Entre 7.0 (inclusive) e 8.0                     C
+Entre 6.0 (inclusive) e 7.0                     D
+Entre 5.0 (inclusive) e 6.0                     E
+Menor do que 5.0                                F
+
+****************************************************************************/
+
 #include <stdio.h>
 
 int main (void) {

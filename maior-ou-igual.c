@@ -1,3 +1,10 @@
+/****************************************************************************
+Exercício de Expressões Relacionais, Expressões Lógicas, Desvio Condicional.
+
+Objetivo: Escreva um programa em C que leia dois números como entrada e exiba
+o valor do menor deles ou se eles são iguais.
+****************************************************************************/
+
 #include <stdio.h>
 
 int main (void) {

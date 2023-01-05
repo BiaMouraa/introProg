@@ -1,3 +1,10 @@
+/****************************************************************************
+Exercício de Expressões Relacionais, Expressões Lógicas, Desvio Condicional.
+
+Objetivo: Escreva um programa em C que leia três inteiros e informe qual deles
+é o valor do maior deles.
+****************************************************************************/
+
 #include <stdio.h>
 
 int main (void){

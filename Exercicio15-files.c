@@ -1,3 +1,10 @@
+/****************************************************************************
+Exercício sobre Structs, Strings, Arrays e Funcoes.
+
+Objetivo: Implementar as funcionalidades de salvar e carregar em arquivo de 
+texto os dados dos discentes do exercício 15.
+****************************************************************************/
+
 #include <stdio.h>
 #include <stdlib.h>
 #define MAX_NOME 41
